@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: black;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+strong{
+    font-weight: 700;
+}
+.post{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 0px;
+    margin-left: -144px;
+    height: 600px;
+    width: 500px;
+    
+}
+
+.post-body{
+    padding: 10px;
+}
+
+.post-header{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+.header-text{
+    display: flex;
+    float: left
+}
+
+.the-icons{
+    display:flex;
+    padding-bottom: 15px;
+}
+
+.save-icon{
+    padding-left: 373px;
+    float: right;
+}
+
+.menu-icon{
+    float:right;
+}
+.top-text {
+    padding-left: 5px;
+}
+.likes-section{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.html5{
+    padding-top: 5px;
+}
